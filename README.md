@@ -25,7 +25,7 @@ This is a Flask-based Book Recommendation System that suggests similar books bas
 ```
 
 Installation
--git clone https://github.com/your-username/book-recommendation-system.git
+-git clone https://github.com/gp02august/book-recommendation-system.git
 -cd book-recommendation-system
 
 Create Virtual Environnment
